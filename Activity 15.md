@@ -3,6 +3,7 @@
 2. Instantiate your class, and change the value of the instance variable notagoodidea to "who knows".
 3. Instantiate your class again.
 4. Print the value of the class and instance variables notagoodidea.
+
 # Part 2 Copy a Class
 5. Make a copy of the first instance of foo that you created in 2. Change the value of the instance variable notagoodidea
 to "I'm lost".
